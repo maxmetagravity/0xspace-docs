@@ -12,11 +12,7 @@ Scen是0xSPACE的在线3D场景编辑器。在Scene编辑器中，你可以使�
 
 无需外部软件或三维建模经验-使用Scene在线编辑器快速建立三维场景，这样你可以有一个完全自定义的虚拟空间，以满足你的需要。从元宇宙会议室到外层宇宙空间以及更远的地方，你的空间尽在你掌控。
 
-```HTML
-<video width="640" height="360" controls>
-    <source src="imgs/architecture-kit.mp4" type="video/mp4">
-</video>
-```
+![](imgs/architecture-kit.gif)
 
 ### 🔭 发现
 
