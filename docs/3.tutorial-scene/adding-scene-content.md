@@ -70,24 +70,24 @@ Scene允许您从Sketchfab搜索3D内容。您可以在“资源”媒体浏览�
 
 音频区域是根据音频源和听众相对的远近位置修改音频源（化身、视频、音频、音频目标等）音量大小。一个明显的应用是根据3D区域（如房间）调节音频源的音量，以模拟真实世界的行为。
 
-![Audio Zones Example Image 1](imgs/audio-zones-example-0.jpg)
+![Audio Zones Example Image 1](imgs/audio-zones-example-0.jpeg)
 
 音频区域基于音频源和侦听器的位置工作
 
 - **输入**：当侦听器在区域外时，音频区域的参数将应用于音频区域内的音频源音量。
 - **输出**：当侦听器在内部时，音频区域的参数将应用于音频区域之外的音频源音量。
 
-![drawing](imgs/audio-zones-example-2.jpg)
+![drawing](imgs/audio-zones-example-2.jpeg)
 
 *禁止所有来自内部的音频源的输入区。*
 
-![drawing](imgs/audio-zones-example-3.jpg)
+![drawing](imgs/audio-zones-example-3.jpeg)
 
 *屏蔽所有来自外界的音频源。*
 
 音频区域可以位于其他音频区域内，在这种情况下，应用的参数将是限制性最强的参数的减少。
 
-![drawing](imgs/audio-zones-example-1.jpg)
+![drawing](imgs/audio-zones-example-1.jpeg)
 
 *如果在听者和源之间有两个音频区域，第一个有增益 == 0.1，另一个有增益 == 0.5，增益 == 0.1 应用于源。*
 
