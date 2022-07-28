@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: '入门指南',
           },
-          {to: '/blog', label: '最新文章', position: 'left'},
+        //  {to: '/blog', label: '最新文章', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
