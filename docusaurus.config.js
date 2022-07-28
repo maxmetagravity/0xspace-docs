@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '0xSPACE 灵境元宇宙',
-  tagline: '0XSPACE Power up your Metaverse',
+  tagline: '0XSPACE 启动你的元宇宙',
   url: 'https://docs.0xspace.net',
   baseUrl: '/',
   onBrokenLinks: 'throw',
