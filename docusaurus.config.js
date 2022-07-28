@@ -71,7 +71,7 @@ const config = {
           },
         //  {to: '/blog', label: '最新文章', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/maxmetagravity/0xspace-docs/',
             label: 'GitHub',
             position: 'right',
           },
