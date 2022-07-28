@@ -40,7 +40,7 @@ sidebar_position: 2
 
 试试用户界面。您可以静音麦克风、拍照、共享屏幕、创建对象等等。我们将在本指南中介绍其中一些控件的基础知识。
 
-![Image](imgs/hubs-user-interface.png)
+![Image](imgs/4.jpg)
 
 ### 
 
