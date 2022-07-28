@@ -65,11 +65,11 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'welcome',
+            docId: 'introduction/welcome',
             position: 'left',
             label: '入门指南',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '最新文章', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
