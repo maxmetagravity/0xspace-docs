@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/maxmetagravity/0xspace-docs/',
         },
         blog: {
           showReadingTime: true,
@@ -65,11 +65,11 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'welcome',
             position: 'left',
-            label: 'Tutorial',
+            label: '入门指南',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '最新文章', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -85,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/introduction/welcome',
               },
             ],
           },
