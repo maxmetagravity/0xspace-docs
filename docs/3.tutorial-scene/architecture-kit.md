@@ -8,7 +8,7 @@ sidebar_position: 5
 
 该工具包套件包含了400多个不同的部件，这些部件被设计成可以一起使用来创建建筑，这些部件包括墙、地板、天花板和屋顶部件，以及窗户、饰件、楼梯和门。
 
-![Image](imgs/CoastalCliffHouseShot1.jpg)
+![Image](imgs/CoastalCliffHouseShot1.jpeg)
 
 ## 如何使用建筑学工具包
 
