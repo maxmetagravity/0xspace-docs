@@ -11,6 +11,7 @@ sidebar_position: 1
 ## 加入现有空间
 
 您可以使用链接URL或数字代码加入现有的0xSAPCE虚拟空间。如果有链接URL，请在浏览器中输入URL。
+![Screenshot of VR Menu](imgs/1.jpg)
 
 ## 进入空间
 
