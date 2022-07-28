@@ -22,7 +22,7 @@ Scen是0xSPACE的在线3D场景编辑器。在Scene编辑器中，你可以使�
 
 通过将内容发布到**0xSPACE**，邀请人们在您的新空间参观。只需点击几下，你就有了一个属于你自己的世界来体验和分享——这一切只需通过你的Web浏览器。
 
-![Screenshot of Spoke](https://hubs.mozilla.com/docs/img/intro-spoke-screenshot-min.jpeg)
+![Screenshot of Spoke](imgs/intro-spoke-screenshot-min.jpeg)
 
 
 ## 下一步
