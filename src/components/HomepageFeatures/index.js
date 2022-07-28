@@ -8,8 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        0xSPACE 是基于Web-Based Metaverse基于Web3、WebXR的元宇宙， 易于使用，自主搭建、开放共赢、是启动您元宇宙的不二之选.
       </>
     ),
   },
@@ -18,18 +17,16 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        聚焦在基于浏览器的 WebXR 标准，提供全面的VR虚拟现实体验，兼容Ocluse、Pico等主流VR虚拟现实设备.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by 0xSPACE',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        0xSPACE 灵境元宇宙平台，将你的线上业务扩展到元宇宙，对接虚拟空间建设、扩展虚拟社交、助力您实现新一代的数字经济模式
       </>
     ),
   },
